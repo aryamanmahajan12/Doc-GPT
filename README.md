@@ -1,6 +1,6 @@
 # Doc-GPT
 
-Created a utility product to generate the 5 closest sentences to a certain query.
+Created a utility product to generate the 5 closest sentences to a certain query in a given document.
 
 The closeness index is calculated for each query by computing the cosine similarity of the vector embedding of each query with the vector embeddings of individual chunks of the document.
 
